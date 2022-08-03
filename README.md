@@ -25,7 +25,7 @@
 ### Instale o Django-Rest
 
 > - pip install djangorestframework
-> não esqueça de registrar o rest-framework no settings da aplicação
+> não esqueça de registrar o rest_framework no settings da aplicação
 
 
 ### Para criar um app execute o comando:
